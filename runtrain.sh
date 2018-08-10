@@ -1,0 +1,1 @@
+python train.py --train_type 1 --train_inputDir '../gammas_mrc/' --particle_size 320 --particle_number 10000 --coordinate_symbol '_2dpick_ycy' --model_save_dir './trained_model' --model_save_file 'model-demo'  #--model_load_file './trained_model/model-demo-gammas'

@@ -1,0 +1,15 @@
+*pyc
+extracted_data*/
+packcode/
+pick-result*/
+*png
+*txt
+trained_model*/
+relion*/
+data/
+*mrcs
+*mrc
+*star
+.gui*
+allclass*
+*.o

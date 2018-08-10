@@ -1,0 +1,1 @@
+python train.py --train_type 1 --train_inputDir '/data00/Data/trpv1' --particle_size 180 --particle_number 10000 --coordinate_symbol '_manual_lgc' --model_save_dir './trained_model' --model_save_file 'trpv1'  #--model_load_file './trained_model/model-demo-gammas'

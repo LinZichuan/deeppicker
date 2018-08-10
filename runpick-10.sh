@@ -1,0 +1,1 @@
+python picker.py --inputDir './pick_mrc/' --pre_trained_model './trained_model/model-demo' --particle_size 320 --mrc_number 10 --outputDir './pick-result-10/' --coordinate_symbol '_cnnPick' --threshold 0.99

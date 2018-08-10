@@ -1,0 +1,1 @@
+python train.py --train_type 3 --train_inputDir '../spliceosome1_mrc_all/' --train_inputFile "./pick-result-10/pick_results.pickle" --particle_size 320 --particle_number 10000 --coordinate_symbol '_manualpick' --model_save_dir './trained_model' --model_save_file 'model-demo-type_32' --model_load_file './trained_model/model-demo-type_3'

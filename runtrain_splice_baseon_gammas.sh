@@ -1,0 +1,1 @@
+python train.py --train_type 2 --train_inputDir '../spliceosome1_mrc_all/' --particle_size 320 --particle_number 10000 --coordinate_symbol '_manualpick' --model_save_dir './trained_model' --model_save_file 'model-splice-baseon-gammas-model-by-pickle' --model_load_file './trained_model/model-gammas-by-pickle'

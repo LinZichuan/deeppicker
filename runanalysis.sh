@@ -1,0 +1,4 @@
+#python analysis_pick_results.py --inputFile './pick-result/pick_results.pickle' --inputDir '/data00/Data/gammas/test/' --particle_size 320 --coordinate_symbol '_2dpick_ycy' --minimum_distance_rate 0.2
+#python analysis_pick_results.py --inputFile './pick-result/pick_results.pickle' --inputDir '/data00/Data/spliceosome/test/' --particle_size 320 --coordinate_symbol '_manualpick' --minimum_distance_rate 0.2
+#python analysis_pick_results.py --inputFile './pick-result/pick_results.pickle' --inputDir '/data00/Data/trpv1/test/' --particle_size 180 --coordinate_symbol '_manual_lgc' --minimum_distance_rate 0.2
+python analysis_pick_results.py --inputFile './pick-result/pick_results.pickle' --inputDir '/data00/Data/piezo/test/' --particle_size 180 --coordinate_symbol '_DW_recentered' --minimum_distance_rate 0.2

@@ -1,0 +1,15 @@
+check here: http://www.cnblogs.com/ywxgod/archive/2010/08/06/1793609.html
+
+//get new dx,dy
+cd allclass
+python dilation.py //to be fixed up
+
+//generate new_star
+//pis + or -
+cd relion_zw18/Class2D/2dc_2
+python scanxxx
+
+//star and new_star are in class2Dstar
+
+To check center effect:
+python showpar_center.py
